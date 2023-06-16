@@ -1,5 +1,5 @@
 <h2>My name is Radosław Miedziński</h2>
-<p>I am a theoretical phycisist studying at University of Wrocław and an aspiring front end developer.</p>
+<p>I am a theoretical phycisist studying at University of Wrocław and an aspiring software developer.</p>
 <ul>
   <li>Final year of BSc in Theoretical Physics</li>
 <!--   <li></li> -->
