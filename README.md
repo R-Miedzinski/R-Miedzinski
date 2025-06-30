@@ -1,5 +1,5 @@
 <h2>My name is Radosław Miedziński</h2>
-<p>I am a full-stack developer at BNY. Experienced wiht working in Agile teams, on development of reactive, data driven web components and AI-powered docuemnt processing solutions.</p>
+<p>I am a full-stack developer at BNY. Experienced with working in Agile Scrum teams on development of reactive, data driven web components and AI-powered docuemnt processing solutions.</p>
 <ul>
   <li>Contact me at: <a href="mailto:radek.miedzinski@gmail.com">radek.miedzinski@gmail.com</a></li>
 </ul>
