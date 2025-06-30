@@ -1,5 +1,5 @@
 <h2>My name is Radosław Miedziński</h2>
-<p>I am a software developer at BNY and masters student of computational physics at University of Wrocław.</p>
+<p>I am a full-stack developer at BNY. Experienced wiht working in Agile teams, on development of reactive, data driven web components and AI-powered docuemnt processing solutions.</p>
 <ul>
   <li>Contact me at: <a href="mailto:radek.miedzinski@gmail.com">radek.miedzinski@gmail.com</a></li>
 </ul>
